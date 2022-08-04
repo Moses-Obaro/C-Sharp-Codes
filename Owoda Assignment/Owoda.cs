@@ -8,6 +8,10 @@ namespace ConsoleApp1
 {
     internal class Owoda
     {
+        /*
+         * Methods that are marked protected are used only in this class
+        */
+        
         /* 
          * This method displays the terms and conditions in Owomida
          * K is for Keke
@@ -76,6 +80,7 @@ namespace ConsoleApp1
 
         /*
          * This method determines if the driver is a member of NURTW or not
+         * It calls the 
          * It also calculates the total cost for n number of trips.
          * Non-members pay the full amount, while members pay 70 percent
         */
@@ -109,6 +114,7 @@ namespace ConsoleApp1
 
         /*
          * This method calculates the cost per driver
+         * It calls other methods (GetNumberOfTrips method, GetToll method and GetMembershipBenefit methods)
          * It also calculates the total number of money the collector has made for the day
          */
         protected void GetCost()
