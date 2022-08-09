@@ -1,0 +1,30 @@
+C:\Users\Support\Documents\DataStructures\bin\Debug\net6.0\ArraysAndMatrixes.exe
+C:\Users\Support\Documents\DataStructures\bin\Debug\net6.0\ArraysAndMatrixes.deps.json
+C:\Users\Support\Documents\DataStructures\bin\Debug\net6.0\ArraysAndMatrixes.runtimeconfig.json
+C:\Users\Support\Documents\DataStructures\bin\Debug\net6.0\ArraysAndMatrixes.dll
+C:\Users\Support\Documents\DataStructures\bin\Debug\net6.0\ArraysAndMatrixes.pdb
+C:\Users\Support\Documents\DataStructures\obj\Debug\net6.0\ArraysAndMatrixes.csproj.AssemblyReference.cache
+C:\Users\Support\Documents\DataStructures\obj\Debug\net6.0\ArraysAndMatrixes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Support\Documents\DataStructures\obj\Debug\net6.0\ArraysAndMatrixes.AssemblyInfoInputs.cache
+C:\Users\Support\Documents\DataStructures\obj\Debug\net6.0\ArraysAndMatrixes.AssemblyInfo.cs
+C:\Users\Support\Documents\DataStructures\obj\Debug\net6.0\ArraysAndMatrixes.csproj.CoreCompileInputs.cache
+C:\Users\Support\Documents\DataStructures\obj\Debug\net6.0\ArraysAndMatrixes.dll
+C:\Users\Support\Documents\DataStructures\obj\Debug\net6.0\refint\ArraysAndMatrixes.dll
+C:\Users\Support\Documents\DataStructures\obj\Debug\net6.0\ArraysAndMatrixes.pdb
+C:\Users\Support\Documents\DataStructures\obj\Debug\net6.0\ArraysAndMatrixes.genruntimeconfig.cache
+C:\Users\Support\Documents\DataStructures\obj\Debug\net6.0\ref\ArraysAndMatrixes.dll
+C:\Users\Support\Documents\Data Structures\bin\Debug\net6.0\ArraysAndMatrixes.exe
+C:\Users\Support\Documents\Data Structures\bin\Debug\net6.0\ArraysAndMatrixes.deps.json
+C:\Users\Support\Documents\Data Structures\bin\Debug\net6.0\ArraysAndMatrixes.runtimeconfig.json
+C:\Users\Support\Documents\Data Structures\bin\Debug\net6.0\ArraysAndMatrixes.dll
+C:\Users\Support\Documents\Data Structures\bin\Debug\net6.0\ArraysAndMatrixes.pdb
+C:\Users\Support\Documents\Data Structures\obj\Debug\net6.0\ArraysAndMatrixes.csproj.AssemblyReference.cache
+C:\Users\Support\Documents\Data Structures\obj\Debug\net6.0\ArraysAndMatrixes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Support\Documents\Data Structures\obj\Debug\net6.0\ArraysAndMatrixes.AssemblyInfoInputs.cache
+C:\Users\Support\Documents\Data Structures\obj\Debug\net6.0\ArraysAndMatrixes.AssemblyInfo.cs
+C:\Users\Support\Documents\Data Structures\obj\Debug\net6.0\ArraysAndMatrixes.csproj.CoreCompileInputs.cache
+C:\Users\Support\Documents\Data Structures\obj\Debug\net6.0\ArraysAndMatrixes.dll
+C:\Users\Support\Documents\Data Structures\obj\Debug\net6.0\refint\ArraysAndMatrixes.dll
+C:\Users\Support\Documents\Data Structures\obj\Debug\net6.0\ArraysAndMatrixes.pdb
+C:\Users\Support\Documents\Data Structures\obj\Debug\net6.0\ArraysAndMatrixes.genruntimeconfig.cache
+C:\Users\Support\Documents\Data Structures\obj\Debug\net6.0\ref\ArraysAndMatrixes.dll
