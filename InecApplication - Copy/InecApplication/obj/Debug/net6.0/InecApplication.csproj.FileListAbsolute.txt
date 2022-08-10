@@ -1,0 +1,15 @@
+C:\Users\Support\Documents\InecApplication\InecApplication\bin\Debug\net6.0\InecApplication.exe
+C:\Users\Support\Documents\InecApplication\InecApplication\bin\Debug\net6.0\InecApplication.deps.json
+C:\Users\Support\Documents\InecApplication\InecApplication\bin\Debug\net6.0\InecApplication.runtimeconfig.json
+C:\Users\Support\Documents\InecApplication\InecApplication\bin\Debug\net6.0\InecApplication.dll
+C:\Users\Support\Documents\InecApplication\InecApplication\bin\Debug\net6.0\InecApplication.pdb
+C:\Users\Support\Documents\InecApplication\InecApplication\obj\Debug\net6.0\InecApplication.csproj.AssemblyReference.cache
+C:\Users\Support\Documents\InecApplication\InecApplication\obj\Debug\net6.0\InecApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Support\Documents\InecApplication\InecApplication\obj\Debug\net6.0\InecApplication.AssemblyInfoInputs.cache
+C:\Users\Support\Documents\InecApplication\InecApplication\obj\Debug\net6.0\InecApplication.AssemblyInfo.cs
+C:\Users\Support\Documents\InecApplication\InecApplication\obj\Debug\net6.0\InecApplication.csproj.CoreCompileInputs.cache
+C:\Users\Support\Documents\InecApplication\InecApplication\obj\Debug\net6.0\InecApplication.dll
+C:\Users\Support\Documents\InecApplication\InecApplication\obj\Debug\net6.0\refint\InecApplication.dll
+C:\Users\Support\Documents\InecApplication\InecApplication\obj\Debug\net6.0\InecApplication.pdb
+C:\Users\Support\Documents\InecApplication\InecApplication\obj\Debug\net6.0\InecApplication.genruntimeconfig.cache
+C:\Users\Support\Documents\InecApplication\InecApplication\obj\Debug\net6.0\ref\InecApplication.dll
