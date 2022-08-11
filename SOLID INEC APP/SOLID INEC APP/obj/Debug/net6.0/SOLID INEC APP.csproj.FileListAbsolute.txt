@@ -1,0 +1,15 @@
+C:\Users\Support\Documents\C# CODES\SOLID INEC APP\SOLID INEC APP\bin\Debug\net6.0\SOLID INEC APP.exe
+C:\Users\Support\Documents\C# CODES\SOLID INEC APP\SOLID INEC APP\bin\Debug\net6.0\SOLID INEC APP.deps.json
+C:\Users\Support\Documents\C# CODES\SOLID INEC APP\SOLID INEC APP\bin\Debug\net6.0\SOLID INEC APP.runtimeconfig.json
+C:\Users\Support\Documents\C# CODES\SOLID INEC APP\SOLID INEC APP\bin\Debug\net6.0\SOLID INEC APP.dll
+C:\Users\Support\Documents\C# CODES\SOLID INEC APP\SOLID INEC APP\bin\Debug\net6.0\SOLID INEC APP.pdb
+C:\Users\Support\Documents\C# CODES\SOLID INEC APP\SOLID INEC APP\obj\Debug\net6.0\SOLID INEC APP.csproj.AssemblyReference.cache
+C:\Users\Support\Documents\C# CODES\SOLID INEC APP\SOLID INEC APP\obj\Debug\net6.0\SOLID INEC APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Support\Documents\C# CODES\SOLID INEC APP\SOLID INEC APP\obj\Debug\net6.0\SOLID INEC APP.AssemblyInfoInputs.cache
+C:\Users\Support\Documents\C# CODES\SOLID INEC APP\SOLID INEC APP\obj\Debug\net6.0\SOLID INEC APP.AssemblyInfo.cs
+C:\Users\Support\Documents\C# CODES\SOLID INEC APP\SOLID INEC APP\obj\Debug\net6.0\SOLID INEC APP.csproj.CoreCompileInputs.cache
+C:\Users\Support\Documents\C# CODES\SOLID INEC APP\SOLID INEC APP\obj\Debug\net6.0\SOLID INEC APP.dll
+C:\Users\Support\Documents\C# CODES\SOLID INEC APP\SOLID INEC APP\obj\Debug\net6.0\refint\SOLID INEC APP.dll
+C:\Users\Support\Documents\C# CODES\SOLID INEC APP\SOLID INEC APP\obj\Debug\net6.0\SOLID INEC APP.pdb
+C:\Users\Support\Documents\C# CODES\SOLID INEC APP\SOLID INEC APP\obj\Debug\net6.0\SOLID INEC APP.genruntimeconfig.cache
+C:\Users\Support\Documents\C# CODES\SOLID INEC APP\SOLID INEC APP\obj\Debug\net6.0\ref\SOLID INEC APP.dll
