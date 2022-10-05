@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IgrkjrpIFththt2R9Mx4IzHOhPIkprfb57PU16Vviw4KNErfbSuki+1EaV2SkYSKJtlUZ9vUblN727na6+1JgA==",
+  "success": true,
+  "projectFilePath": "/Users/obaromoses/Downloads/alat-kiddies-ios/alat-kiddies-ios/alat-kiddies-ios.csproj",
+  "expectedPackageFiles": [
+    "/Users/obaromoses/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/obaromoses/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512"
+  ],
+  "logs": []
+}

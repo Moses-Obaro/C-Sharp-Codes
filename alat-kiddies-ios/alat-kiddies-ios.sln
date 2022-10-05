@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1703.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "alat-kiddies-ios", "alat-kiddies-ios\alat-kiddies-ios.csproj", "{D49FC4B6-05CF-4272-9FE6-15CD7C8DEA6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D49FC4B6-05CF-4272-9FE6-15CD7C8DEA6E}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{D49FC4B6-05CF-4272-9FE6-15CD7C8DEA6E}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{D49FC4B6-05CF-4272-9FE6-15CD7C8DEA6E}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{D49FC4B6-05CF-4272-9FE6-15CD7C8DEA6E}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{D49FC4B6-05CF-4272-9FE6-15CD7C8DEA6E}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{D49FC4B6-05CF-4272-9FE6-15CD7C8DEA6E}.Debug|iPhone.Build.0 = Debug|iPhone
+		{D49FC4B6-05CF-4272-9FE6-15CD7C8DEA6E}.Release|iPhone.ActiveCfg = Release|iPhone
+		{D49FC4B6-05CF-4272-9FE6-15CD7C8DEA6E}.Release|iPhone.Build.0 = Release|iPhone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCDDE0E8-2F98-404F-94AC-9DE8246A745E}
+	EndGlobalSection
+EndGlobal
